@@ -3,7 +3,3 @@ numpy
 datetime
 pandas
 plotly
-json
-requests
-ast
-re
