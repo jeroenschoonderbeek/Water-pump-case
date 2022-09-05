@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import datetime
 import pandas as pd
-from scipy import stats
+
 import plotly.graph_objects as go
 
 ### Define Titles ###
